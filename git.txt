@@ -1,0 +1,11 @@
+git init = initalise
+git add = staging area
+git status = status (if new files or not commited)
+
+git commit = commit   (git commit -m = -m Messafe)
+
+git log = previous commits
+
+git diff = difference
+
+git checkout = returns to previous stage
